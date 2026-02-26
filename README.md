@@ -2,7 +2,7 @@
 
   ### Software Engineer | Data Science Student @ FIAP
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmazzeunovo)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielmazzeu.com.br)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@danielmazzeu.com.br)
 
@@ -48,3 +48,4 @@ Desenvolvedor focado na criação de ecossistemas tecnológicos robustos e escal
 - **Ciência de Dados** - FIAP (Cursando)
 - **Inglês:** Fluente (Técnico e Profissional)
 - **Espanhol:** Básico
+
